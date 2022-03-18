@@ -1,0 +1,13 @@
+package {
+    import flash.display.*;
+    import flash.text.*;
+
+    public class Lesson1 extends Sprite {
+
+        public function Lesson1 () {
+            var textField:TextField = new TextField();
+            textField.text = "Hello, World!";
+            addChild(textField);
+        }
+    }
+}
