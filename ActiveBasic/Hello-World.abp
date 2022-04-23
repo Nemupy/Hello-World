@@ -1,2 +1,2 @@
-MessageBox(NULL, "Hello World!!", "", MB_OK)
+MessageBox(NULL, "Hello, World!", "", MB_OK)
 End
